@@ -61,6 +61,7 @@ def main():
             size = (frame_width, frame_height)
             fps = molette()
             print("______________________frame", fps)
+            # Modifier le chemin d'enregistrement des vidéos si necessaire
             result = cv2.VideoWriter('/home/abc/Projet/Videos/' + nom_fichier + '.avi', cv2.VideoWriter_fourcc(*'MJPG'), fps, size)
             while stop_enrg:
                 print("enrg")
