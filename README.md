@@ -1,10 +1,10 @@
 # Capture FabLab Project
 
 ## Authors
-- BELABDELLI Rizlène
-- BOUGHERARA Hanane
-- IDOUDERB Karima
-- OUERFILI Chaïma
+- [BELABDELLI Rizlène](https://github.com/Riizlene)
+- [BOUGHERARA Hanane](https://github.com/hanane-bougherara)
+- [IDOUDERB Karima](https://github.com/karima-idouderb)
+- [OUERFILI Chaïma](https://github.com/Chaimaaaaaaaaaaa)
 
 ## Overview
 The Capture FabLab project was designed to address a crucial need within the FabLab: project documentation. Often overlooked or considered tedious by users, the documentation process has been simplified through a system that captures videos of the work being done and automatically uploads them to a dedicated server. This project aims to make documentation more accessible and attractive, encouraging comprehensive and regular recording throughout a project's lifecycle. This will facilitate the continuation, improvement, reproduction, and collaboration on projects within the FabLab community.
